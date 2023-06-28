@@ -30,3 +30,24 @@ section.even hr {
 section hr {
     margin-bottom: 5rem;
 }
+
+.center {
+    margin: auto;
+    width: 65%;
+    /*border: 3px solid #73AD21;*/
+    padding: 0px;
+}
+
+.justify{
+    text-align: justify;
+    padding: 0px;
+}
+
+.izquierda{
+    text-align: left;
+    padding: 0px;
+}
+
+.transparente{
+    opacity:0.8;
+}
