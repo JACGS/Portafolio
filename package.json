@@ -1,0 +1,19 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Mi portafolio con sus paginas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JACGS/Portafolio.git"
+  },
+  "author": "Jorge Chavez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JACGS/Portafolio/issues"
+  },
+  "homepage": "https://github.com/JACGS/Portafolio#readme"
+}
